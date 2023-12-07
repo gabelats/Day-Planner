@@ -101,3 +101,5 @@ You are required to submit the following for review:
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 screen shots
 ![Alt text](image.png)
+Deployed page 
+https://gabelats.github.io/Day-Planner/
